@@ -1,0 +1,30 @@
+
+@font-face {
+    font-family: monument;
+    src: url("../src/assets/fonts/MonumentExtended-Ultrabold.otf");
+}
+@font-face {
+    font-family: karnivor;
+    src: url("../src/assets/fonts/KARNIVOR.ttf");
+}
+
+@import "tailwindcss";
+
+
+@theme{
+    --font-monument: 'monument', sans-serif;
+    --font-karnivor:'karnivor',sans-serif;
+}
+
+@keyframes scrollX {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+.anime {
+  animation: scrollX 10s linear infinite;
+}
