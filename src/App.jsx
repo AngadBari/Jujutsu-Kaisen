@@ -2,7 +2,7 @@ import React from 'react'
 import Nav from './compontes/nav/Nav'
 import Character from './compontes/character/Character'
 import Power from './compontes/power/Power'
-import Top from './compontes/top/top'
+import Top from './compontes/top/Top'
 
 function App() {
   return (
