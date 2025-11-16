@@ -1,11 +1,11 @@
 import React from "react";
-import kento from "./Image/Kento_Nanami.jpg";
-import megumi from "./Image/Megumi_Fushiguro.jpg";
-import kugisaki from "./Image/Nobara_Kugisaki.jpg";
-import ryomen from "./Image/Ryomen_Sukuna.jpg";
-import satoru from "./Image/Satoru_Gojo.jpg";
-import yuji from "./Image/Yuji_Itadori.jpg";
-import yuta from "./Image/Yuta_Okkotsu.jpg";
+import kento from "./image/Kento_Nanami.jpg";
+import megumi from "./image/Megumi_Fushiguro.jpg";
+import kugisaki from "./image/Nobara_Kugisaki.jpg";
+import ryomen from "./image/Ryomen_Sukuna.jpg";
+import satoru from "./image/Satoru_Gojo.jpg";
+import yuji from "./image/Yuji_Itadori.jpg";
+import yuta from "./image/Yuta_Okkotsu.jpg";
 
 
 function Character() {
