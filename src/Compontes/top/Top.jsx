@@ -1,7 +1,7 @@
 import React from 'react'
 import jujutsuVideo from "../../assets/Video/JujutsuKaisen.mp4";
 
-function Top() {
+function top() {
   return (
     <div id="Center" className=' h-165 w-full  p-5'>
         
@@ -11,4 +11,4 @@ function Top() {
   )
 }
 
-export default Top
+export default top
